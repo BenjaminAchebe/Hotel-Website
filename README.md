@@ -6,7 +6,7 @@ To get started with the Hotel Website, you will need a web browser installed on 
 
 To launch the website, simply open the `index.html` file in your web browser or click on the <a href="https://benjaminachebe.github.io/Hotel-Website/index.html" target="_blank">`link`</a>
 
-### Application Structure
+### Website Structure
 The Hotel Website is structured as follows:
 
 ```diff
