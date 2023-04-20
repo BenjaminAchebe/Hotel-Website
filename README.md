@@ -4,7 +4,7 @@ This is a hotel website built using HTML and CSS. The website allows users to br
 ### Getting Started
 To get started with the Hotel Website, you will need a web browser installed on your computer. The website is compatible with most modern web browsers, including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
 
-To launch the website, simply open the `index.html` file in your web browser.
+To launch the website, simply open the `index.html` file in your web browser or click on the <a href="https://benjaminachebe.github.io/Hotel-Website/index.html" target="_blank">`link`</a>
 
 ### Application Structure
 The Hotel Website is structured as follows:
