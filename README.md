@@ -15,7 +15,7 @@ about.html
 contact.html
 images/
 ├── (contains images used in the website)
-styles/
+css/
 ├── style.css
 ├── mobile.css
 ```
@@ -23,7 +23,7 @@ styles/
 * `about.html` The HTML file that contains information about the hotel.
 * `contact.html` The HTML file that contains the hotel's contact information.
 * `images`/ A directory containing the images used in the website.
-* `styles`/ A directory containing the CSS files that styles the hotel website.
+* `css`/ A directory containing the CSS files that styles the hotel website.
 * `style.css` The CSS file that styles the website for desktop devices.
 * `mobile.css` The CSS file that styles the website for mobile devices.
 
